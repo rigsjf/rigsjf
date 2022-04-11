@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rigsjf
 - 👀 I’m interested in innovation
-- 🌱 I’m currently learning .net Core
+- 🌱 I’m currently learning .net Core and Python
 - 📫 How to reach me: rigsjf@gmail.com
 
 <!---
