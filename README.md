@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rigsjf
-- 👀 I’m interested in innovation
+- 👀 I’m interested in data science with python
 - 🌱 I’m currently learning .net Core and Python
 - 📫 How to reach me: rigsjf@gmail.com
 
